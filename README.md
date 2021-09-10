@@ -4,6 +4,12 @@ In this activity, you will build a command-line tool that generates an HTML port
 
 ## Instructions
 
+![Screenshot 1](./thumb-1.png)
+
+---
+
+![Screenshot 2](./thumb-2.png)
+
 [Link to Generated README](https://github.com/antcoop/video-record-demo/blob/main/home.html)
 
 [Link to Repo](https://github.com/antcoop/video-record-demo)

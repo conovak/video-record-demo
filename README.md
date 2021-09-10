@@ -4,6 +4,10 @@ In this activity, you will build a command-line tool that generates an HTML port
 
 ## Instructions
 
+[Link to Generated README](https://github.com/antcoop/video-record-demo/blob/main/home.html)
+[Link to Repo](https://github.com/antcoop/video-record-demo)
+[Link to Video](https://drive.google.com/file/d/1wG2ePnndOAqibIxS_nkWMz-uWTbbvuWj/view?usp=sharing)
+
 * Your application should prompt the user for information like their name, location, bio, LinkedIn URL, and GitHub URL. Feel free to add any additional prompts you think of.
 
 * An HTML document containing the information collected from the prompts should be constructed and written to the file system. Be sure to add some CSS styling to the document.
